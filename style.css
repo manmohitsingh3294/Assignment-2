@@ -92,3 +92,17 @@ figure img {
     border: 0.2rem solid #999;
     border-radius: 0.5rem;
 }
+
+figcaption {
+    font-size: 0.85rem;
+    font-variant: small-caps;
+    margin-top: 0.5rem;
+}
+
+/* ----- IFRAME ----- */
+iframe {
+    display: block;
+    margin: 2rem auto;
+    width: 90%;
+    border: 0.2rem solid #444;
+}
