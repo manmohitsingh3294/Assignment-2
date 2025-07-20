@@ -37,3 +37,20 @@ aside {
 footer {
     clear: both;
 }
+
+/* ----- HEADER + FOOTER ----- */
+header {
+    font-size: 2rem;
+    color: #ffffff;
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+    text-align: center;
+    padding: 1rem 0;
+}
+
+footer {
+    font-size: 0.9rem;
+    background: linear-gradient(to right, #8f94fb, #4e54c8);
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+}
