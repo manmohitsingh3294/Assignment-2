@@ -106,3 +106,22 @@ iframe {
     width: 90%;
     border: 0.2rem solid #444;
 }
+
+/* ----- QUOTE SECTION ----- */
+section.quote {
+    border: 0.3rem solid #888;
+    box-shadow: 0 0.3rem 1rem rgba(0, 0, 0, 0.2);
+    width: 80%;
+    font-family: 'Courier New', monospace;
+    font-style: italic;
+    color: #333;
+    padding: 1.5rem;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+/* ----- LIST + LINKS ----- */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
