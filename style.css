@@ -54,3 +54,24 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
+
+/* Section headings: font styling */
+section h2 {
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Georgia', serif;
+    color: #333;
+    text-align: center;
+}
+
+/* ----- BLOCKQUOTE ----- */
+blockquote {
+    font-style: italic;
+    background-color: #eee;
+    padding: 1.5rem;
+    border-left: 0.5rem solid #aaa;
+    width: 80%;
+    margin: 2rem auto;
+    box-shadow: 0 0.3rem 0.6rem rgba(0, 0, 0, 0.1);
+}
