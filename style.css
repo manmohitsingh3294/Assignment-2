@@ -9,3 +9,31 @@ html {
     font: normal small-caps 400 20px/1.6 'Segoe UI', sans-serif;
     background-color: #f5f5f5;
 }
+
+/* Body styling: layout, spacing, border, bg */
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 0.2rem solid #ccc;
+    background-color: #ffffff;
+}
+
+/* ----- PAGE LAYOUT ----- */
+/* Floats used for main and aside 70/30 */
+main {
+    float: left;
+    width: 70%;
+    padding: 1.5rem;
+}
+
+aside {
+    float: left;
+    width: 30%;
+    padding: 1.5rem;
+}
+
+/* Clear fix for footer */
+footer {
+    clear: both;
+}
