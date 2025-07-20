@@ -1,0 +1,11 @@
+/* Name: Manmohit Singh
+   Student Number: 9053294 
+   Assignment 2 - CSS Styling for Famous City Page
+*/
+
+/* ----- ROOT + BODY ----- */
+/* Root font shorthand: style, variant, weight, size, line-height, family */
+html {
+    font: normal small-caps 400 20px/1.6 'Segoe UI', sans-serif;
+    background-color: #f5f5f5;
+}
