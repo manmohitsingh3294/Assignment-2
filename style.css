@@ -125,3 +125,28 @@ ul {
     list-style-type: none;
     padding-left: 0;
 }
+
+a:link {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #660099;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #e60000;
+}
+
+a:active {
+    color: #ff9900;
+}
+
+/* ----- TABLE ----- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2rem;
+}
